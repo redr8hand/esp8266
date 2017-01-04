@@ -1,0 +1,8 @@
+:Project: NeoPixelWebServer
+:Author: Agis Wichert
+:Email: info@computer-bug.de
+:Date: 03.01.2017
+:Revision: 1.0
+:License: Public Domain
+
+= Project: {NeoPixelWebServer}
