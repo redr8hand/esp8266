@@ -6,3 +6,5 @@
 ## setNeoColor(String) ###
 Sets the whole Neopixel stripe to the specified RGB-color.
 The parameter is a hexadecimal string with the format #rrggbb
+
+![NeoPixelWebserver Wireing](NeoPixelWebServer_bb.png)
